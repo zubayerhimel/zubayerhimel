@@ -9,8 +9,8 @@ I am [Zubayer Himel](https://zubayerhimel.github.io/), a passionate learner and 
 | JavaScript |      ReactJS      |     SASS     |   Github   |
 |   Python   |  MaterializeCSS   |     LESS     | HerokuApp  |
 |    HTML    |     Bootstrap     |              |            |
-|    CSS     |     BulmaCSS      |              |            |
-| TypeScript |                   |              |            |
+|    CSS     |      TailwindCSS     |              |            |
+| TypeScript |                  |              |            |
 
 #### Profile Summary
 
