@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Zubayer Himel](https://zubayerhimel.github.io/), a passionate learner and open source contributor. I am a front-end developer who also have interest in Data Science.
+I am [Zubayer Himel](https://zubayerhimel.vercel.app/), a passionate learner and open-source contributor. I am a front-end developer who also has an interest in Data Science.
 
 #### Skill
 
