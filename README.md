@@ -7,14 +7,10 @@ I am [Zubayer Himel](https://zubayerhimel.vercel.app/), a passionate learner and
 |  Language  | Library/Framework | Preprocessor | Deployment |
 | :--------: | :---------------: | :----------: | :--------: |
 | JavaScript |      ReactJS      |     SASS     |   Github   |
-|   Python   |  MaterializeCSS   |     LESS     | HerokuApp  |
-|    HTML    |     Bootstrap     |              |            |
+|   Python   |  VueJS   |     LESS     | HerokuApp  |
+| Typescript |     Bootstrap     |              |            |
 |    CSS     |      TailwindCSS  |              |            |
-| TypeScript |                   |              |            |
-
-#### Profile Summary
-
-<img src="https://github-readme-stats.vercel.app/api?username=zubayerhimel&show_icons=true" alt="zubayerhimel" />
+| GO         |                   |              |            |
 
 #### Connect me through
 
